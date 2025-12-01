@@ -1,0 +1,1 @@
+These are basic bits of Groovy code while I'm learning the language. Most is based off of the LinkedIn Learning tutorial https://www.linkedin.com/learning/learning-groovy/using-convenience-annotations?autoSkip=true&resume=false&u=0.
